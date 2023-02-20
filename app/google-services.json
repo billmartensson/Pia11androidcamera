@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "239611999130",
+    "firebase_url": "https://pia11-dc8f7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pia11-dc8f7",
+    "storage_bucket": "pia11-dc8f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239611999130:android:7df44011f5a85ab8128023",
+        "android_client_info": {
+          "package_name": "se.magictechnology.pia11androidfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239611999130-qtmdeub2b8q4t51mct1fe40neiak0k0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDadv1xRsEy4q98C_wW_BQc6-ZhVXBCC5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239611999130-qtmdeub2b8q4t51mct1fe40neiak0k0f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "239611999130-152spifoa6bagh1bu8eoktokj7fesgt3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "se.magictechnology.PIA11Shopping"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239611999130:android:e20509d59a1437a5128023",
+        "android_client_info": {
+          "package_name": "se.magictechnology.pia11camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239611999130-qtmdeub2b8q4t51mct1fe40neiak0k0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDadv1xRsEy4q98C_wW_BQc6-ZhVXBCC5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239611999130-qtmdeub2b8q4t51mct1fe40neiak0k0f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "239611999130-152spifoa6bagh1bu8eoktokj7fesgt3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "se.magictechnology.PIA11Shopping"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239611999130:android:361be38290e05054128023",
+        "android_client_info": {
+          "package_name": "se.magictechnology.pia11shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239611999130-qtmdeub2b8q4t51mct1fe40neiak0k0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDadv1xRsEy4q98C_wW_BQc6-ZhVXBCC5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239611999130-qtmdeub2b8q4t51mct1fe40neiak0k0f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "239611999130-152spifoa6bagh1bu8eoktokj7fesgt3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "se.magictechnology.PIA11Shopping"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
